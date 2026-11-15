@@ -1,0 +1,5 @@
+# ROS 2 Humble compila contra numpy 1.x: no usar numpy 2.
+numpy>=1.21,<2
+matplotlib>=3.5
+torch>=2.0
+h5py>=3.0

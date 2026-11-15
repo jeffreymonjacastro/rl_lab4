@@ -1,0 +1,3 @@
+pasos_entrenamiento,prueba,recompensa,pasos,exito,colision
+0,1,-5.593541499862804,7,False,True
+512,1,66.11733834215511,150,False,False

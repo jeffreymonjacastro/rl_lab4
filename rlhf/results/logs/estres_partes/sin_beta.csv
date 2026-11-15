@@ -1,0 +1,3 @@
+politica,ruido_lidar,episodios,tasa_exito,tasa_colision
+RLHF beta=0,0.0,10,0.0,1.0
+RLHF beta=0,0.1,10,0.0,1.0

@@ -1,0 +1,5 @@
+ronda,piloto,pasos,pasos_humanos,intervenciones,episodios,colisiones,exitos,pares_agregados,pares_dataset
+1,bc.pth,419,197,14,8,4,4,197,642
+2,dagger_1.pth,494,250,11,8,1,7,250,892
+3,dagger_2.pth,388,171,12,8,5,3,171,1063
+4,dagger_3.pth,442,95,3,8,0,8,95,1158

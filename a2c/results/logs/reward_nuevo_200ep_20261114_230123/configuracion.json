@@ -1,0 +1,23 @@
+{
+  "corrida": "reward_nuevo_200ep_20261114_230123",
+  "escenario": "cruce",
+  "pasos": 10000,
+  "episodios": 200,
+  "limite": 150,
+  "rollout": 64,
+  "lr": 0.0003,
+  "gamma": 0.99,
+  "gae_lambda": 0.95,
+  "entropia": 0.002,
+  "coef_critico": 0.5,
+  "escala_recompensa": 0.1,
+  "sesgo_avance": 0.35,
+  "log_std_inicial": -1.0,
+  "validar_cada": 30000,
+  "pruebas_validacion": 1,
+  "ruido_lidar": 0.0,
+  "perturbacion": 0.0,
+  "semilla": 42,
+  "metodo": "a2c",
+  "device": "cpu"
+}

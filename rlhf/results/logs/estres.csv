@@ -1,0 +1,7 @@
+politica,ruido_lidar,episodios,tasa_exito,tasa_colision
+DAgger,0.0,10,0.4,0.6
+DAgger,0.1,10,0.1,0.9
+RLHF beta>0,0.0,10,0.4,0.6
+RLHF beta>0,0.1,10,0.4,0.6
+RLHF beta=0,0.0,10,0.0,1.0
+RLHF beta=0,0.1,10,0.0,1.0
